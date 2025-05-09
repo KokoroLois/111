@@ -1,0 +1,8 @@
+ID29F64612-QYU5MATH逢坂大河の
+ID659B2E4B-ECV7VPAXこころ
+https://mahjong-toki.github.io/demo.html
+https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/gongyongzhao/se.json宫永照
+https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/jier/se.json英雄王
+https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/luluxiu/se.json  LL
+https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/sigonghuiye/se.json 四宫辉夜
+https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/yiliya/se.json 伊莉雅
